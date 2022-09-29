@@ -20,4 +20,4 @@ console.log("Hello world");
 
 ## Contributing
 
-ME :)
+ME! :)
