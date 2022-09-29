@@ -1,1 +1,1 @@
-console.log("Hello world! This was written in VSCode.");
+console.log("Hello world! This was written in VSCode!!!§!!");
